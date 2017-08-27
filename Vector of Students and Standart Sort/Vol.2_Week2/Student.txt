@@ -1,0 +1,6 @@
+Drozd 4 9 9 7 7
+Alexeenko 4 6 6 8 9
+Naumovich 1 10 8 9 10
+Shiryaeva 4 9 7 9 9
+Bulatov 2 3 7 6 8
+Platt 3 10 2 6 9

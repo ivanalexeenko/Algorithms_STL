@@ -1,0 +1,8 @@
+﻿  list.bus.cpp
+d:\visual studio\visual studio 2015\projects\vol.2_week2\list.bus\list.bus.cpp(52): warning C4018: '<': signed/unsigned mismatch
+d:\visual studio\visual studio 2015\projects\vol.2_week2\list.bus\list.bus.cpp(54): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Bus.cpp
+  list.bus.vcxproj -> D:\Visual Studio\Visual Studio 2015\Projects\Vol.2_Week2\Debug\list.bus.exe
+  list.bus.vcxproj -> D:\Visual Studio\Visual Studio 2015\Projects\Vol.2_Week2\Debug\list.bus.pdb (Partial PDB)
